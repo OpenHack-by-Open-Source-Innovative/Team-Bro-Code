@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540261540357",
+    "project_id": "aurora-7aa20",
+    "storage_bucket": "aurora-7aa20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540261540357:android:ef672805a7e0dc0480726c",
+        "android_client_info": {
+          "package_name": "com.aurora.auroramobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540261540357-iidq5feaamhnuups7cjgf2g0evkg43lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaj9hk243yznDJ_reKuJFS024a6ZztRVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540261540357-iidq5feaamhnuups7cjgf2g0evkg43lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

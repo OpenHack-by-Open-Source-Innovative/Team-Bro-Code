@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">540261540357-iidq5feaamhnuups7cjgf2g0evkg43lr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">540261540357</string>
+    <string name="google_api_key" translatable="false">AIzaSyAaj9hk243yznDJ_reKuJFS024a6ZztRVU</string>
+    <string name="google_app_id" translatable="false">1:540261540357:android:ef672805a7e0dc0480726c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAaj9hk243yznDJ_reKuJFS024a6ZztRVU</string>
+    <string name="google_storage_bucket" translatable="false">aurora-7aa20.appspot.com</string>
+    <string name="project_id" translatable="false">aurora-7aa20</string>
+</resources>
