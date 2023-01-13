@@ -43,3 +43,10 @@ Go to project root and execute the following command in console to get the requi
 flutter pub get 
 ```
 
+**Step 3:**
+
+AI components can downloaded from ```https://drive.google.com/drive/folders/1g76VeFSvg3U2YEeSS0xfHspZZIWeOdzk?usp=sharing```
+run all the apis
+
+
+
