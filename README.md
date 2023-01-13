@@ -2,6 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
 
+## Application Overview
+
+The Application is called Aurora. Aurora is a Multimodal Emotion and Depression Diagnosis and Treatment System. Currently, there are no centralized mobile or web platforms that could both detect mood disorders and offer treatments. The mission of the project is to create a platform that can help everyone tackle the harsh realities associated with depression and similar emotional disorders. Cutting-edge AI techniques are integrated into our system to diagnose depression and emotions from real-time audio, text, and image data. Aurora's treatment components utilize techniques identified in music therapy and
+psychotherapy to best help each user overcome their emotional problems. Aurora is available as a cross-platform Mobile Application.
+
 ## Technologies
 
 <div style="display:flex; margin: auto;">
